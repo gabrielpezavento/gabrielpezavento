@@ -4,14 +4,14 @@
 
 
 - 🔥 Student Web Developer
-- 💬 Ask me about **JavaScript**
+
 
 
 
 
 <br><br>
 
-## 📖 &nbsp;Student
+
 <!--
 a
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
